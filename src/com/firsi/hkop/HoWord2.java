@@ -7,6 +7,10 @@ public class HoWord2 {
 		System.out.println("Hello...n");
 		System.out.println("new...n");
 
+		
+		System.out.println("Hello...n");
+		System.out.println("Hello Hi");
+
 
 	}
 
